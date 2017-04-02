@@ -87,9 +87,9 @@ img{
 }
 
 article img{
-  -webkit-filter: grayscale(100%);
-  filter: grayscale(100%);
-  transition:all 0.5s ease;
+  -webkit-filter: grayscale(50%);
+  filter: grayscale(50%);
+  transition:all 3s ease;
 }
 
 article:hover img{
