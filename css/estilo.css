@@ -118,7 +118,7 @@ video{
 
 #portafolio{
 	width:100%;
-	background:rgb(248,177,182);
+	background:rgb(118,211,118);
 	padding-bottom:1%;
 	/* 4 veces lo mismo, para que funcione en distintos navegadores */
 	-webkit-animation: fondo 5s infinite linear alternate;
